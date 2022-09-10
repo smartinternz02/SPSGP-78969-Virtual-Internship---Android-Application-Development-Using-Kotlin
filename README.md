@@ -7,6 +7,10 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ⏩ [Google Developer Profile](https://g.dev/AnshSinghSonkhia)
 
+<div align="middle">
+<img src="https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final-Project/restaurant.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="50" height="50"/>
+</div>
+
 ### All Android Projects:
 
 * [Happy Birthday Card App](https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit-1-Kotlin-Basics/HappyBirthdaybyAnsh.zip)
