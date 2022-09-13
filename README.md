@@ -3,17 +3,12 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ## Name: ANSH SINGH SONKHIA
 
-⏩ [My Final Project 1: Business Maps](https://github.com/AnshSinghSonkhia/Business-Maps-App/tree/master)
+⏩ [My Final Project 1: Business Maps](https://github.com/AnshSinghSonkhia/Business-Maps-App/tree/master) &nbsp; <a href="https://github.com/AnshSinghSonkhia/Business-Maps/tree/master"><img src="https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final-Project/restaurant.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="50" height="50" align="right"/></a>  <a href="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/tree/master"><img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/master/app/src/main/res/drawable-v24/grocerycart.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="50" height="50" align="right"/></a>
 
-⏩ [My Final Project 2: Grocery List App](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/tree/master)
+⏩ [My Final Project 2: Grocery List App](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/tree/master) &nbsp; 
 
 ⏩ [Google Developer Profile](https://g.dev/AnshSinghSonkhia)
 
-<div align="middle">
-<a href="https://github.com/AnshSinghSonkhia/Business-Maps/tree/master">
-  <img src="https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final-Project/restaurant.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="50" height="50"/>
-</a>
-</div>
 
 ### All Android Projects:
 
