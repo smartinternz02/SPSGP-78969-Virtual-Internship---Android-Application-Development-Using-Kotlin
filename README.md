@@ -3,7 +3,9 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ## Name: ANSH SINGH SONKHIA
 
-⏩ [My Final Project in Detail GitHub Link](https://github.com/AnshSinghSonkhia/Business-Maps-App/tree/master)  OR [Final Project link inside this Repository](https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Final-Project)
+⏩ [My Final Project 1: Business Maps](https://github.com/AnshSinghSonkhia/Business-Maps-App/tree/master)
+
+⏩ [My Final Project 2: Grocery List App](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/tree/master)
 
 ⏩ [Google Developer Profile](https://g.dev/AnshSinghSonkhia)
 
