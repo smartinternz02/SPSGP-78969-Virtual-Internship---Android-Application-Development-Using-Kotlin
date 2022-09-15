@@ -9,6 +9,21 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ⏩ [Google Developer Profile](https://g.dev/AnshSinghSonkhia)
 
+## Final Project 2 (Grocery List App) Screenshots
+
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/1.jpg" title="1"  alt="1" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/2.jpg" title="2"  alt="2" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/3.jpg" title="3"  alt="3" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/4.jpg" title="4"  alt="4" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/5.jpg" title="5"  alt="5" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/6.jpg" title="6"  alt="6" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/7.jpg" title="7"  alt="7" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/8.jpg" title="8"  alt="8" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/9.jpg" title="9"  alt="9" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/10.jpg" title="10"  alt="10" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/11.jpg" title="11"  alt="11" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/12.jpg" title="12"  alt="12" width="180" height="360"/>&nbsp;
+<img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/13.jpg" title="13"  alt="13" width="180" height="360"/>&nbsp;
 
 ### All Android Projects:
 
