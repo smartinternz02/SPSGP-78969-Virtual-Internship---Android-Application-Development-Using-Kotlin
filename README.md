@@ -11,6 +11,10 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ⏩ [Demo Video Link](https://youtu.be/-bGtOaMzGzQ)
 
+<a href="https://youtu.be/-bGtOaMzGzQ">
+  <img src="https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final-Project-2/Thumbnail.jpg" alt="Demo Video Link Thumbnail" width="420px"/>
+</a>
+
 ### SBID: SB20220230361 <br> Application ID: SPS_APL_20220092695
 
 ## Final Project 2 (Grocery List App) Screenshots
