@@ -9,7 +9,7 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ⏩ [Google Developer Profile](https://g.dev/AnshSinghSonkhia)
 
-⏩ [Demo Video Link](https://www.youtube.com/shorts/JjCrU3L-fK0)
+⏩ [Demo Video Link](https://youtu.be/-bGtOaMzGzQ)
 
 ### SBID: SB20220230361 <br> Application ID: SPS_APL_20220092695
 
