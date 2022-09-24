@@ -7,9 +7,9 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ⏩ [My Final Project 2: Grocery List App](https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/tree/master) &nbsp; 
 
-⏩ [Google Developer Profile](https://g.dev/AnshSinghSonkhia)
+⏩ [Google Developer Profile](https://g.dev/AnshSinghSonkhia)  - https://g.dev/AnshSinghSonkhia
 
-⏩ [Demo Video Link](https://youtu.be/-bGtOaMzGzQ)
+⏩ [Demo Video Link](https://youtu.be/-bGtOaMzGzQ) - https://youtu.be/-bGtOaMzGzQ
 
 <a href="https://youtu.be/-bGtOaMzGzQ">
   <img src="https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final-Project-2/Thumbnail.jpg" alt="Demo Video Link Thumbnail" width="420px"/>
