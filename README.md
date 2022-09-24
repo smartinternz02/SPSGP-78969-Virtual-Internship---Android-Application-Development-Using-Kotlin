@@ -2,6 +2,7 @@
 Virtual Internship - Android Application Development Using Kotlin
 
 ## Name: ANSH SINGH SONKHIA
+<h3> SBID: SB20220230361 <br> Application ID: SPS_APL_20220092695 </h3>
 
 ⏩ [My Final Project 1: Business Maps](https://github.com/AnshSinghSonkhia/Business-Maps-App/tree/master) &nbsp; <a href="https://github.com/AnshSinghSonkhia/Business-Maps/tree/master"><img src="https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final-Project/restaurant.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="50" height="50" align="right"/></a>  <a href="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/tree/master"><img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/master/app/src/main/res/drawable-v24/grocerycart.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="50" height="50" align="right"/></a>
 
@@ -15,7 +16,6 @@ Virtual Internship - Android Application Development Using Kotlin
   <img src="https://github.com/smartinternz02/SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Final-Project-2/Thumbnail.jpg" alt="Demo Video Link Thumbnail" width="420px"/>
 </a>
 
-### SBID: SB20220230361 <br> Application ID: SPS_APL_20220092695
 
 ## Final Project 2 (Grocery List App) Screenshots
 
